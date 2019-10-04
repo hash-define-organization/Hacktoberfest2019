@@ -5,4 +5,4 @@
 3. [Shubham Khemka](https://github.com/shubhamkhemka)
 4. [Jigyasu Bhayana](https://github.com/jigyasubhayana)
 5. [Kardelio](https://github.com/kardelio)
-
+6. [Sanchit Jain](https://github.com/Jain-Sanchit)
