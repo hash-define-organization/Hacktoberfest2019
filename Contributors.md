@@ -7,4 +7,4 @@
 5. [Kardelio](https://github.com/kardelio)
 6. [Sanchit Jain](https://github.com/Jain-Sanchit)
 7. [HARSHIT GUPTA](https://github.com/iamharshitgupta)
-
+8. [AZZAM JAFRI](https://github.com/azzamjafri)
