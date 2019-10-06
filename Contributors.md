@@ -8,4 +8,6 @@
 6. [Sanchit Jain](https://github.com/Jain-Sanchit)
 7. [HARSHIT GUPTA](https://github.com/iamharshitgupta)
 8. [AZZAM JAFRI](https://github.com/azzamjafri)
-9. [Shaik saifuddin](https://github.com/sksaifuddin)
+9. [NAMAN KHURANA](https://github.com/NamanKhurana)
+10. [Shaik saifuddin](https://github.com/sksaifuddin)
+
