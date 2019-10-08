@@ -17,3 +17,6 @@ git push origin master
 7. Congratulations!! You have successfully created your pull request.
 8. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 9. Wait for your shirt.
+
+Powered by Hash Define
+Visit hashdefine.tech for more info
