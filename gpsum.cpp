@@ -2,7 +2,7 @@
 // geometric series. 
 #include<bits/stdc++.h> 
 using namespace std; 
-  
+#define endl "\n";
 // function to calculate sum of  
 // geometric series 
 float sumOfGP(float a, float r, int n) 
