@@ -1,7 +1,7 @@
 #include<bits/stdc++.h> 
 using namespace std; 
   
-// Function to find sum of series. 
+// This is a Function to find sum of series. 
 float sumOfAP(float a, float d, int n) 
 { 
     float sum = 0; 
@@ -13,7 +13,7 @@ float sumOfAP(float a, float d, int n)
     return sum; 
 } 
   
-// Driver function 
+// This is a Driver function 
 int main() 
 { 
     int n = 20; 
